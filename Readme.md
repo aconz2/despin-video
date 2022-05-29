@@ -31,6 +31,8 @@ python despin.py flight-test.mkv  --start-frame 820 --end-frame 1221 --mask flig
 
 From the above linked video for frames 820 - 1221
 
+[Youtube Video](https://www.youtube.com/watch?v=toI1IZpEXpY)
+
 Computed rotation and translation between frames. Accumulated on the right
 ![graph of rotations and translations](./images/despin-transforms.png)
 
