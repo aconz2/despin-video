@@ -51,3 +51,4 @@ First two frames blended
 ## Future
 
 * A hybrid method which would use the earliest+best match frame to transform against so that there is good stability and drift correction.
+* Features are computed on the scaled version and then the output is also scaled. To use the original frames, just need to scale the transform's translation component
